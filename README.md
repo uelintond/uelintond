@@ -24,9 +24,7 @@ I am passionate about the internet and its technologies.
 I like to create content to help ordinary people earn money in different ways on the internet.
 
 Software engineering student, CEO of the GRD project and digital agency Zame Creative inc.
-
 <br />
-
 ## It might be useful
 
 - Contact email uelintond@icloud.com
