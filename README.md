@@ -1,6 +1,6 @@
 ### Olá, eu sou Uélinton Morelli 🖐️
 
-[![Blog](https://img.shields.io/website?label=uelinton.com&style=for-the-badge&url=https://uelinton.com)](https://uelinton.com)
+[![Blog](https://img.shields.io/website?label=omorelli.com&style=for-the-badge&url=https://omorelli.com)](https://omorelli.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDDDh46G-SXI6JjlXPW7bUg?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omorellis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uelintonmorelli)
