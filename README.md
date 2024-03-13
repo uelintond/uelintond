@@ -32,4 +32,4 @@ Estudante de engenharia de software, CEO do projeto GRD e agência digital Zame 
 ## Pode ser útil
 
 - Email para contato uelintond@icloud.com
-- Meu portfólio https://uelinton.com/jobs
+- Meu portfólio https://omorelli.com/jobs
